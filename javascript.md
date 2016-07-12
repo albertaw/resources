@@ -1,4 +1,4 @@
-## Tutorials
+### Tutorials
 [codecademy](https://www.codecademy.com/learn/javascript)  
 Absolute beginner lessons in JavaScript syntax
 
@@ -11,7 +11,7 @@ Book on programming and advanced JavaScript topics
 [ReactiveX](http://reactivex.io/learnrx/)  
 Interactive exercises in functional JavaScript
 
-## Style Guides
+### Style Guides
 [Douglas Crockford](http://javascript.crockford.com/code.html)    
 
 [Isobar](http://isobar-idev.github.io/code-standards/#javascript_javascript) 
@@ -20,7 +20,7 @@ Interactive exercises in functional JavaScript
 
 [tutsplus](http://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145)
 
-## Libraries/Frameworks
+### Libraries/Frameworks
 [jQuery](https://jquery.com/)
 JavaScript library  
 
@@ -33,7 +33,7 @@ Library for building user interfaces
 [Node.js](https://nodejs.org/en/)  
 Serverside JavaScript environment and package manager
 
-## Testing
+### Testing
 [QUnit](http://qunitjs.com/)  
 Unit testing framework for JavaScript
 
@@ -46,7 +46,7 @@ JavaScript testing framework running on Node.js
 [Protractor](http://www.protractortest.org/#/)  
 End-to-end testing for Angular apps
 
-## Tools
+### Tools
 [repl.it](https://repl.it/languages/javascript)  
 Web based code editor
 
@@ -58,7 +58,3 @@ JavaScript task runner
 
 [Karma](http://karma-runner.github.io/0.8/index.html)  
 Test runner for JavaScript
-
-
-## Readings
-Todo
