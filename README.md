@@ -1,5 +1,3 @@
-# JavaScript Resources
-
 ## Tutorials
 [codecademy](https://www.codecademy.com/learn/javascript)  
 Absolute beginner lessons in JavaScript syntax
@@ -14,7 +12,11 @@ Book on programming and advanced JavaScript topics
 Interactive exercises in functional JavaScript
 
 ## Style Guides
-Todo
+[Douglas Crockford](http://javascript.crockford.com/code.html)    
+
+[Isobar](http://isobar-idev.github.io/code-standards/#javascript_javascript) 
+
+[Google](https://google.github.io/styleguide/javascriptguide.xml)   
 
 ## Libraries and Frameworks
 Todo
