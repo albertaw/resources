@@ -27,11 +27,24 @@ JavaScript library
 [AngularJS](https://angularjs.org/)  
 Model-view-viewmodel framework
 
-[React](https://facebook.github.io/react/)
+[React](https://facebook.github.io/react/)   
 Library for building user interfaces
 
+[Node.js](https://nodejs.org/en/)  
+Serverside JavaScript environment and package manager
+
 ## Testing
-Todo
+[QUnit](http://qunitjs.com/)  
+Unit testing framework for JavaScript
+
+[Jasmine](http://jasmine.github.io/)  
+Behavior driven JavaScript testing  
+
+[Mocha](https://mochajs.org/)  
+JavaScript testing framework running on Node.js
+
+[Protractor](http://www.protractortest.org/#/)  
+End-to-end testing for Angular apps
 
 ## Tools
 [repl.it](https://repl.it/languages/javascript)  
@@ -42,6 +55,10 @@ Code linter
 
 [Grunt](http://gruntjs.com/)  
 JavaScript task runner
+
+[Karma](http://karma-runner.github.io/0.8/index.html)  
+Test runner for JavaScript
+
 
 ## Readings
 Todo
