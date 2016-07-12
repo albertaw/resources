@@ -18,14 +18,30 @@ Interactive exercises in functional JavaScript
 
 [Google](https://google.github.io/styleguide/javascriptguide.xml)   
 
-## Libraries and Frameworks
-Todo
+[tutsplus](http://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145)
+
+## Libraries/Frameworks
+[jQuery](https://jquery.com/)
+JavaScript library  
+
+[AngularJS](https://angularjs.org/)  
+Model-view-viewmodel framework
+
+[React](https://facebook.github.io/react/)
+Library for building user interfaces
 
 ## Testing
 Todo
 
-## Development Tools
-Todo
+## Tools
+[repl.it](https://repl.it/languages/javascript)  
+Web based code editor
+
+[jshint](http://jshint.com/)  
+Code linter 
+
+[Grunt](http://gruntjs.com/)  
+JavaScript task runner
 
 ## Readings
 Todo
