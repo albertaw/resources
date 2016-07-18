@@ -5,7 +5,7 @@ Absolute beginner lessons in JavaScript syntax
 [w3schools](http://www.w3schools.com/js/default.asp)  
 Reference for JavaScript syntax and methods
 
-[Eloquent JavaScript](http://eloquentjavascript.net/)  
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)  
 Book on programming and advanced JavaScript topics
 
 [ReactiveX](http://reactivex.io/learnrx/)  
@@ -58,3 +58,4 @@ JavaScript task runner
 
 [Karma](http://karma-runner.github.io/0.8/index.html)  
 Test runner for JavaScript
+
