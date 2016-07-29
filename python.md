@@ -1,6 +1,6 @@
 ## Python resources
 
-[Codecademy](https://www.codecademy.com/learn/python)
+[Codecademy](https://www.codecademy.com/learn/python)  
 Interactive lessons for the absolute beginner 
 
 [Think Python](http://greenteapress.com/thinkpython/html/index.html)  
