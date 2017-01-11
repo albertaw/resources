@@ -36,4 +36,4 @@ and doing all of the exercises at the end of each chapter. Or you can study [Thi
 3. When you finish steps 1 and 2 you should move on to 
 a more advanced curriculum. Take [MIT's intro to computer science course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/).  
 
-4. Learn about other python modules by doing the problems from [Hacker Rank](https://www.hackerrank).
+4. Learn about other python modules by doing the problems from [Hacker Rank](https://www.hackerrank.com/domains/python/py-introduction).
