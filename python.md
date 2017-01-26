@@ -33,7 +33,8 @@ step in your self study.
 2. Next, you need to learn the fundamentals of programming and computer science with a structured course.  I recommend reading the book [Starting Out with Python](https://www.amazon.com/Starting-Out-Python-Tony-Gaddis/dp/0133582736) and doing all of the exercises at the end of each chapter. Or you can study [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/html/index.html).  While you are taking your course you should study 
 [The Art and Craft of Programming](http://troll.cs.ua.edu/ACP-PY/index.html). Read the chapters as they correspond to the topics you learn. 
 
-3. When you finish steps 1 and 2 you should move on to a more advanced curriculum. Take [MIT's intro to computer science course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/).  
+3. When you finish steps 1 and 2 you should move on to a more advanced curriculum. Take [MIT's intro to computer science course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/). You shouldn't need to watch the lecture videos at this point,
+but it is always good to hear the information in different ways. I like this course because the
+problems will challenge you and really flex your problem solving skills.  
 
-4. Learn about other python modules by doing the problems from the [Hacker Rank python course](https://www.hackerrank.com/domains). You should also begin the Algorithms course and choose python as you
-language to solve the problem. And if you are really bold, do the Data Structures course as well.
+4. Finally, learn about other python modules by doing the problems from the [Hacker Rank python course](https://www.hackerrank.com/domains). You should also begin the Algorithms course and choose python as your language to solve the problem. And if you are really bold, do the Data Structures course as well.
